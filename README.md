@@ -4,7 +4,6 @@
 Learn The Basic Usage of OpenCV for Image Processing
 
 
-
 ## Table of Contents
 
 | #    |  Contents               | Status            |
@@ -13,7 +12,10 @@ Learn The Basic Usage of OpenCV for Image Processing
 | `py2`| [Flip, Threshold, and Enhancement](https://github.com/ilhambara/opencv-the-basics/tree/main/py2) | - |
 | `py3`| Spatial domain filter   | WIP |
 | `py4`| Frequency domain filter | WIP |
-| `py5`| [Histogram and K-Means Cluster](https://github.com/ilhambara/opencv-the-basics/tree/main/py2) | - |
+| `py5`| [Histogram and K-Means Cluster](https://github.com/ilhambara/opencv-the-basics/tree/main/py5) | - |
+
+The lists will be updated from time to time. Planned to add more.
+
 
 ## Reference
 
